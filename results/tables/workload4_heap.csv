@@ -1,0 +1,9 @@
+operation,n,operations,average_time_ns,average_comparisons,theoretical_complexity
+insert,100,100,4908.20,197.00,O(log n)
+extractMin,100,100,5133.40,845.00,O(log n)
+insert,1000,1000,31566.60,2241.00,O(log n)
+extractMin,1000,1000,54716.60,14978.00,O(log n)
+insert,10000,10000,224216.60,22602.00,O(log n)
+extractMin,10000,10000,545683.60,216531.00,O(log n)
+insert,100000,100000,1035391.80,227662.00,O(log n)
+extractMin,100000,100000,5979716.80,2831463.00,O(log n)

@@ -1,0 +1,9 @@
+structure,n,operations,average_time_ns,average_accesses,theoretical_complexity
+DynamicArray,100,10000,197175.20,10000.00,Theta(1)
+LinkedList,100,10000,635183.20,511508.00,Theta(n)
+DynamicArray,1000,10000,137474.80,10000.00,Theta(1)
+LinkedList,1000,10000,2565266.80,5015208.00,Theta(n)
+DynamicArray,10000,10000,44783.40,10000.00,Theta(1)
+LinkedList,10000,10000,57296100.00,50139208.00,Theta(n)
+DynamicArray,100000,10000,19458.20,10000.00,Theta(1)
+LinkedList,100000,10000,689311408.40,502499208.00,Theta(n)
